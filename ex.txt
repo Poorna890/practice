@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 efg
 hij
 klm
+||||||| 9874cd1
+=======
+abc
+bcd
+efg
+
+>>>>>>> New
